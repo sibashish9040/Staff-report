@@ -1,5 +1,4 @@
 # Staff-report
-# Staff Report
 The Staff Report is an Excel project that provides concise information about the staff of a chocolate company.
 
 **Features:**
